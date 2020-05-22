@@ -1,0 +1,2 @@
+g++ -o dd delayedremovetag.cpp
+./dd test.html
